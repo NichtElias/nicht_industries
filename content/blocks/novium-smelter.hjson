@@ -1,0 +1,12 @@
+type: GenericCrafter
+name: "Novium Smelter"
+
+requirements: [
+    copper/50
+    titanium/50
+    graphite/50
+]
+
+outputItem: novium/1
+
+category: crafting
