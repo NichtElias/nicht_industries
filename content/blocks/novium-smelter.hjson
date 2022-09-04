@@ -7,6 +7,22 @@ requirements: [
     graphite/50
 ]
 
+consumes: {
+    power: 2
+    items: {
+        items: [
+            titanium/8
+            phase-fabric/2
+        ]
+    }
+    liquid: {
+        liquid: slag
+        amount: 1
+    }
+}
+
+craftTime: 720
+
 outputItem: novium/1
 
 category: crafting
