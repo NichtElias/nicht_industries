@@ -17,7 +17,7 @@ consumes: {
     }
     liquid: {
         liquid: slag
-        amount: 1
+        amount: 0.6
     }
 }
 
@@ -25,5 +25,6 @@ craftTime: 720
 
 outputItem: novium/1
 
+itemCapacity: 16
 category: crafting
 size: 3
