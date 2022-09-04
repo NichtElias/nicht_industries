@@ -8,7 +8,7 @@ requirements: [
 ]
 
 consumes: {
-    power: 2
+    power: 5
     items: {
         items: [
             titanium/8
