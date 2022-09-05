@@ -44,6 +44,11 @@ drawer: {
         {
             type: DrawFlame
         }
+        {
+            type: DrawArcSmelt
+            flameRad: 1.5
+            particles: 10
+        }
     ]
 }
 
