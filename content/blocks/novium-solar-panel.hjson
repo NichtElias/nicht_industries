@@ -1,0 +1,14 @@
+type: SolarGenerator
+name: "Novium Solar Panel"
+
+size: 2
+
+powerProduction: 1.2
+
+requirements: [
+    lead/40
+    silicon/40
+    novium/1
+]
+
+category: power
