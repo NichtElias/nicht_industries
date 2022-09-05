@@ -36,13 +36,13 @@ craftTime: 720
 outputItem: novium/1
 
 drawer: {
-    type: DrawMulti,
+    type: DrawMulti
     drawers: [
         {
             type: DrawDefault
         }
         {
-            type: DrawFade
+            type: DrawFlame
         }
     ]
 }
