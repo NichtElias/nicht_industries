@@ -1,4 +1,13 @@
 
+size: 3
+
+update: true
+hasPower: true
+hasItems: true
+hasLiquids: true
+
+itemCapacity: 16
+
 
 requirements: [
     copper/50
@@ -24,6 +33,4 @@ craftTime: 720
 
 outputItem: novium/1
 
-itemCapacity: 16
 category: crafting
-size: 3
