@@ -1,3 +1,5 @@
+type: GenericCrafter
+name: "Novium Smelter"
 
 size: 3
 
@@ -32,5 +34,17 @@ consumes: {
 craftTime: 720
 
 outputItem: novium/1
+
+drawer: {
+    type: DrawMulti,
+    drawers: [
+        {
+            type: DrawDefault
+        }
+        {
+            type: DrawFade
+        }
+    ]
+}
 
 category: crafting
