@@ -3,18 +3,14 @@ name: "Novium Smelter"
 
 size: 3
 
-update: true
-hasPower: true
-hasItems: true
-hasLiquids: true
-
 itemCapacity: 16
 
 
 requirements: [
-    copper/50
-    titanium/50
+    copper/120
+    titanium/60
     graphite/50
+    thorium/80
 ]
 
 consumes: {
