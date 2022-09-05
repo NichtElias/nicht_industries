@@ -1,5 +1,4 @@
-type: GenericCrafter
-name: "Novium Smelter"
+
 
 requirements: [
     copper/50
