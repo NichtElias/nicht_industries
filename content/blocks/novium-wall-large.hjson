@@ -2,7 +2,7 @@ type: Wall
 name: Large Novium Wall
 description: A large wall made of novium.
 
-health: 4080
+health: 4800
 size: 2
 requirements: [
   novium/24

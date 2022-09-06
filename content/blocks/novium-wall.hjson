@@ -2,7 +2,7 @@ type: Wall
 name: Novium Wall
 description: A wall made of novium.
 
-health: 1020
+health: 1200
 size: 1
 requirements: [
   novium/6
