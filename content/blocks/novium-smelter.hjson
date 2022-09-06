@@ -1,5 +1,6 @@
 type: GenericSmelter
 name: "Novium Smelter"
+description: "Makes novium from titanium, phase fabric and slag."
 
 size: 3
 
