@@ -5,19 +5,19 @@ description: Shoots with strindbergium.
 size: 2
 
 health: 200
-reloadTime: 2
-shots: 4
+reloadTime: 4
+shots: 1
 spread: 0
 range: 200
 maxAmmo: 240
-ammoUseEffect: shootSmokeDisperse
+ammoUseEffect: casing1
 inaccuracy: 0
 rotatespeed: 360
 
 ammoTypes: {
   strindbergium: {
-    speed: 3
-    damage: 4
+    speed: 8
+    damage: 16
     width: 7
     height: 7
     shootEffect: shootSmall
