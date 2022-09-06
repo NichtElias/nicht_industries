@@ -1,0 +1,10 @@
+type: Wall
+name: Novium Wall
+description: A wall made of novium.
+
+health: 1020
+size: 1
+requirements: [
+  novium/6
+]
+category: defense
